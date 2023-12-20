@@ -1,6 +1,6 @@
 Name:		texlive-udes-genie-these
-Version:	64509
-Release:	2
+Version:	68141
+Release:	1
 Summary:	A thesis class file for the Faculte de genie at the Universite de Sherbrooke
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/udes-genie-these
