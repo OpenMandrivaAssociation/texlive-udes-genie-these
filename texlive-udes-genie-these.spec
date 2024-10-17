@@ -3,7 +3,7 @@ Version:	68141
 Release:	1
 Summary:	A thesis class file for the Faculte de genie at the Universite de Sherbrooke
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/udes-genie-these
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/udes-genie-these
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/udes-genie-these.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/udes-genie-these.doc.r%{version}.tar.xz
